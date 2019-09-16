@@ -2,17 +2,17 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <sitemap>
-        <loc>https://kirisi2008.github.io/blog/post-sitemap.xml</loc>
+        <loc>https://kirisi2008.github.io/post-sitemap.xml</loc>
         <lastmod>2019-09-16T08:57:34.803Z</lastmod>
     </sitemap>
 
     <sitemap>
-        <loc>https://kirisi2008.github.io/blog/page-sitemap.xml</loc>
+        <loc>https://kirisi2008.github.io/page-sitemap.xml</loc>
         <lastmod>2019-09-16T08:57:34.852Z</lastmod>
     </sitemap>
 
     <sitemap>
-        <loc>https://kirisi2008.github.io/blog/tag-sitemap.xml</loc>
+        <loc>https://kirisi2008.github.io/tag-sitemap.xml</loc>
         <lastmod>2019-09-16T08:57:34.803Z</lastmod>
     </sitemap>
 
