@@ -2,17 +2,17 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <sitemap>
-        <loc>http://kirisi.github.io/post-sitemap.xml</loc>
+        <loc>http://yoursite.com/post-sitemap.xml</loc>
         <lastmod>2019-09-16T08:57:34.803Z</lastmod>
     </sitemap>
 
     <sitemap>
-        <loc>http://kirisi.github.io/page-sitemap.xml</loc>
+        <loc>http://yoursite.com/page-sitemap.xml</loc>
         <lastmod>2019-09-16T08:57:34.852Z</lastmod>
     </sitemap>
 
     <sitemap>
-        <loc>http://kirisi.github.io/tag-sitemap.xml</loc>
+        <loc>http://yoursite.com/tag-sitemap.xml</loc>
         <lastmod>2019-09-16T08:57:34.803Z</lastmod>
     </sitemap>
 
