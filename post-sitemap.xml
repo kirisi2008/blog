@@ -7,8 +7,32 @@
     </url>
 
     <url>
+        <loc>https://kirisi2008.github.io/2019/11/23/github-tips/</loc>
+        <lastmod>2019-11-23T13:36:48.328Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kirisi2008.github.io/2019/10/14/panads-cheat-sheet/</loc>
+        <lastmod>2019-10-14T12:57:54.351Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kirisi2008.github.io/2019/10/01/crawler-with-XPath/</loc>
+        <lastmod>2019-10-01T13:31:37.340Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://kirisi2008.github.io/2019/09/29/Firstst-step-on-web-crawlers/</loc>
-        <lastmod>2019-09-29T07:53:27.395Z</lastmod>
+        <lastmod>2019-10-01T13:21:46.098Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 

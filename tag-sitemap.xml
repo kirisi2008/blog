@@ -31,21 +31,56 @@
 
     <url>
         <loc>https://kirisi2008.github.io/tags/web-crawlers/</loc>
-        <lastmod>2019-09-29T07:53:27.395Z</lastmod>
+        <lastmod>2019-10-01T13:31:37.340Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://kirisi2008.github.io/tags/spider/</loc>
-        <lastmod>2019-09-29T07:53:27.395Z</lastmod>
+        <lastmod>2019-10-01T13:31:37.340Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://kirisi2008.github.io/tags/XPath/</loc>
+        <lastmod>2019-10-01T13:31:37.340Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://kirisi2008.github.io/tags/python/</loc>
-        <lastmod>2019-09-29T07:53:27.395Z</lastmod>
+        <lastmod>2019-10-14T12:57:54.351Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://kirisi2008.github.io/tags/Pandas/</loc>
+        <lastmod>2019-10-14T12:57:54.351Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://kirisi2008.github.io/tags/Data-science/</loc>
+        <lastmod>2019-10-14T12:57:54.351Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://kirisi2008.github.io/tags/github/</loc>
+        <lastmod>2019-11-23T13:36:48.328Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://kirisi2008.github.io/tags/git/</loc>
+        <lastmod>2019-11-23T13:36:48.328Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
